@@ -5,4 +5,5 @@ package hello;
  */
 public class jamoussi {
     int x=0;
+    int y=1;
 }
