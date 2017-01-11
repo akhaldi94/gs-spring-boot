@@ -1,8 +1,0 @@
-package hello;
-
-/**
- * Created by ahmed on 11/01/2017.
- */
-public class casa {
-    int k=0;
-}
