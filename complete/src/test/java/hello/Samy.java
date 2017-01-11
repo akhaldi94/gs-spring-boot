@@ -5,4 +5,6 @@ package hello;
  */
 public class Samy {
     int x = 0;
+    int b=0;
+    int c=b;
 }
